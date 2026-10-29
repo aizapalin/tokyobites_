@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8645074581",
+    "project_id": "tokyobites-7752d",
+    "storage_bucket": "tokyobites-7752d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8645074581:android:50ec9733f31de4be9f859c",
+        "android_client_info": {
+          "package_name": "com.example.tokyobites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRV-DBslAAN-doT_-1L3TF65GYgvyZkIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
